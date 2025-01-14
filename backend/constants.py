@@ -1,0 +1,8 @@
+DATABASE_NAME="hospital"
+COLLECTION_NAME="members"
+CONNECTION_STRING="mongodb+srv://ettyg325:325746147@cluster0.txtfs.mongodb.net/"
+BACKEND_URL="http://backend:8000"
+CREATE_URI="/create"
+READ_URI="/"
+UPDATE_URI="/update"
+DELETE_URI= "/delete"
